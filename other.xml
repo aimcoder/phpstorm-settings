@@ -1,0 +1,19 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="11.10.0" last-modified="1550155308000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="setting" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="editorcon" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AppData/Roaming/Composer/vendor/bin/php-cs-fixer.bat&#10;C:/Users/petrnguyen/AppData/Roaming/Composer/vendor/bin/phpcs.bat&#10;C:/Users/petrnguyen/AppData/Roaming/Composer/vendor/bin/phpcs" />
+    <property name="selected.color.option.type" value="EDITORCONFIG_IDENTIFIER" />
+    <property name="settings.code.style.selected.tab.EditorConfig" value="Spaces" />
+    <property name="settings.code.style.selected.tab.PHP" value="Tabs and Indents" />
+  </component>
+</application>
